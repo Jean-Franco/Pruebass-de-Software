@@ -12,6 +12,6 @@ Para usar este programa se debe ejecutar y navegar por el pequeño menú a trav�
 ## Cómo contribuir
 Para ayudar a la contribución de este programa, se agradecería que se ejecutara este programa con distintos casos de prueba para poder detectar posibles fallos que no fueron detectados en la construcción y testing temprano de este software. Además se aceptan contribuciones que ayuden al mejoramiento del proyecto, como optimizar código, proponer mejores opciones, etc.
 ## Licencia
-Eclipse IDE for Java Developers versión Neon.3 Release (4.6.3)
-Apache Log4j versión 2.18.0
-Java 8
+* Eclipse IDE for Java Developers versión Neon.3 Release (4.6.3)
+* Apache Log4j versión 2.18.0
+* Java 8
