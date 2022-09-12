@@ -7,7 +7,7 @@ El proyecto consiste en programar una pila que fuera capaz de recibir entradas d
 Todas las acciones deben quedar registradas en un archivo log para lograr persistencia, además de manejar las excepciones.
 ## Instalación
 Para instalar el programa basta con descargar los archivos encontrados en esta carpeta y usar un IDE de Java para lograr escribir y ejecutar el programa. Para la construcción de este programa se utilizó el IDE Eclipse (versión Neon.3 Release 4.6.3 listada más abajo). Para usar con Eclipse, designar como workspace la carpeta Proyecto1.
-Para el uso de logs, descargar la versión 2.18.0 y agregar los archivos al classpath del proyecto (link descarga: https://logging.apache.org/log4j/2.x/download.html)
+Para el uso de logs, descargar la versión 2.18.0 y agregar los archivos al classpath del proyecto (En Eclipse, propiedades del proyecto -> Java Build Path -> pestaña libraries y la opción Add External JAR) (link descarga: https://logging.apache.org/log4j/2.x/download.html)
 ## Cómo usar
 Para usar este programa se debe ejecutar y navegar por el pequeño menú a través de las opciones. Primero se empieza ingresando dos textos (la cantidad mínima para empezar a operar con ellos) y luego aparecerán las opciones para navegar y ejecutar acciones. Un ejemplo de uso es: El programa pedirá dos inputs, para este caso será "long" y "short". Si se escoge la opción de comparación de textos (opción 4), se deberán escoger los textos a comparar en una lista que se mostrará por pantalla. Si se escoge "long" y luego "short", el programa arroajará como resultado que el texto "long" es más corto que "short".
 ## Cómo contribuir
