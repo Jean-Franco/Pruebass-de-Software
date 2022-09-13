@@ -1,5 +1,8 @@
 # Proyecto 1 Pruebas de Software
 
+## Importante
+El programa original fue hecho en Java (abajo las indicaciones para su instalación y ejecución), pero debido a diversos problemas con versiones de JDK y librerías se realizó el programa de la misma manera en Python, la cual se encuentra dentro de la carpeta con versión Python. Las instrucciones para ejecutar el programa en Python son descargar el archivo de este git y simplemente ejecutarlo.
+
 ## Nombre
 Jean-Franco Zárate
 ## Descripción
