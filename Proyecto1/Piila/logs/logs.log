@@ -1,4 +1,11 @@
-01:05:06.480 [main] INFO  piilapackage.Piiila - Entrada hola obtenida y agregada al stack
-01:05:09.599 [main] INFO  piilapackage.Piiila - Entrada sd obtenida y agregada al stack
-01:05:11.878 [main] INFO  piilapackage.Piiila - Se ingreso la opcion 0
-01:05:11.879 [main] INFO  piilapackage.Piiila - Se cerro el programa
+17:23:49.520 [main] INFO  piilapackage.Piiila - Se ingreso la opcion 0
+17:23:49.524 [main] INFO  piilapackage.Piiila - Se cerro el programa
+17:23:56.671 [main] INFO  piilapackage.Piiila - Entrada textolargo obtenida y agregada al stack
+17:23:57.881 [main] INFO  piilapackage.Piiila - Entrada corto obtenida y agregada al stack
+17:24:54.854 [main] INFO  piilapackage.Piiila - Se ingreso la opcion 4
+17:24:56.011 [main] INFO  piilapackage.Piiila - Entrada 1
+17:24:56.274 [main] INFO  piilapackage.Piiila - Entrada 2
+17:24:56.274 [main] INFO  piilapackage.Piiila - Resultado obtenido
+17:38:57.909 [main] INFO  piilapackage.Piiila - Entrada hola obtenida y agregada al stack
+17:38:58.624 [main] INFO  piilapackage.Piiila - Entrada hola obtenida y agregada al stack
+17:39:03.712 [main] INFO  piilapackage.Piiila - Se ingreso la opcion 3
