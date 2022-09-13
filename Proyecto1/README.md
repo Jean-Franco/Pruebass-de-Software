@@ -19,3 +19,5 @@ Para ayudar a la contribución de este programa, se agradecería que se ejecutar
 * Eclipse IDE for Java Developers versión Neon.3 Release (4.6.3)
 * Apache Log4j versión 2.18.0
 * Java 8 (JDK versión 1.8.0_281)
+* Python versión 3.9.1
+* Visual Studio Code (IDE para Python)
