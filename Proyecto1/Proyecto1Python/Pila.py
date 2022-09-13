@@ -87,26 +87,37 @@ while(True):
             option3 = int(input("Ingrese opcion \n"))
 
             try:
-                print(stack[option3 - 1])
-                logtext = 'Info: Opcion ' + str(option3) + ' seleccionada, resultado obtenido\n'
-                logging.info(logtext)
+                if(option3 > 0):
+                    print(stack[option3 - 1])
+                    logtext = 'Info: Opcion ' + str(option3) + ' seleccionada, resultado obtenido\n'
+                    logging.info(logtext)
+                else:
+                    print("Por favor, ingrese una posicion valida")
+                    logtext = 'Info: Opcion ' + str(option3) + ' seleccionada, opcion invalida\n'
+                    logging.info(logtext)
 
             except:
                 print("Error en el input, por favor seleccione una posicion valida\n")
                 logging.info('Info: Error en el input, por favor seleccione una posicion valida')
 
         elif(option == 4):
-            string1 = ""
-            string2 = ""
+            cond1 = 0
+            cond2 = 0
             print("Los elementos en la pila son los siguientes: " + str(stack) + "\n")
 
             try:
                 print("Seleccione la posicion del primer elemento a comparar (empezando por el 1): \n")
                 option41 = int(input("Ingrese opcion: \n"))
-                string1 = stack[option41 - 1]
-                print("Elemento seleccionado: " + string1 + "\n")
-                logtext = 'Info: Entrada: ' + str(option41) + '\n'
-                logging.info(logtext)
+                if(option41 > 0):
+                    string1 = stack[option41 - 1]
+                    cond1 = 1
+                    print("Elemento seleccionado: " + string1 + "\n")
+                    logtext = 'Info: Entrada: ' + str(option41) + '\n'
+                    logging.info(logtext)
+                else:
+                    print("Por favor, ingrese una posicion valida")
+                    logtext = 'Info: Opcion ' + str(option41) + ' seleccionada, opcion invalida\n'
+                    logging.info(logtext)
 
             except:
                 print("Error en el input, por favor seleccione una posicion valida\n")
@@ -115,26 +126,35 @@ while(True):
             try:
                 print("Seleccione la posicion del segundo elemento a comparar (empezando por el 1): \n")
                 option42 = int(input("Ingrese opcion: \n"))
-                string2 = stack[option42 - 1]
-                print("Elemento seleccionado: " + string2 + "\n")
-                logtext = 'Info: Entrada: ' + str(option42) + '\n'
-                logging.info(logtext)
+                if(option42 > 0):
+                    string2 = stack[option42 - 1]
+                    cond2 = 1
+                    print("Elemento seleccionado: " + string2 + "\n")
+                    logtext = 'Info: Entrada: ' + str(option42) + '\n'
+                    logging.info(logtext)
+                else:
+                    print("Por favor, ingrese una posicion valida")
+                    logtext = 'Info: Opcion ' + str(option42) + ' seleccionada, opcion invalida\n'
+                    logging.info(logtext)
 
             except:
                 print("Error en el input, por favor seleccione una posicion valida\n")
                 logging.info('Info: Error en el input, por favor seleccione una posicion valida\n')
 
-            if(len(string1) == len(string2)):
-                print("Los elementos son del mismo tamano\n")
-                logging.info('Info: Resultado obtenido\n')
-
-            elif(len(string1) < len(string2)):
-                print("El elemento " + string1 + " es mas corto que " + string2 + "\n")
-                logging.info('Info: Resultado obtenido\n')
-
+            if(cond1 == 0 and cond2 == 0):
+                continue
             else:
-                print("El elemento " + string1 + " es mas largo que " + string2 + "\n")
-                logging.info('Info: Resultado obtenido\n')
+                if(len(string1) == len(string2)):
+                    print("Los elementos son del mismo tamano\n")
+                    logging.info('Info: Resultado obtenido\n')
+
+                elif(len(string1) < len(string2)):
+                    print("El elemento " + string1 + " es mas corto que " + string2 + "\n")
+                    logging.info('Info: Resultado obtenido\n')
+
+                else:
+                    print("El elemento " + string1 + " es mas largo que " + string2 + "\n")
+                    logging.info('Info: Resultado obtenido\n')
 
         elif(option == 0):
             print("Adios!\n")
