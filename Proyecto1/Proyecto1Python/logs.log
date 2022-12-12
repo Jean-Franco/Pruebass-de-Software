@@ -280,3 +280,125 @@
 09/12/2022 11:27:47 PM Info: Se ingreso la opcion 0
 09/12/2022 11:27:47 PM Info: Se cerro el programa
 
+09/12/2022 11:27:50 PM Info: Entrada hola obtenida y agregada al stack
+
+09/12/2022 11:27:51 PM Info: Entrada chao obtenida y agregada al stack
+
+09/12/2022 11:27:51 PM Info: Se ingreso la opcion 4
+09/12/2022 11:27:53 PM Info: Entrada: 1
+
+09/12/2022 11:27:53 PM Info: Entrada: 2
+
+09/12/2022 11:27:53 PM Info: Resultado obtenido
+
+09/12/2022 11:33:16 PM Info: Se ingreso la opcion 0
+09/12/2022 11:33:16 PM Info: Se cerro el programa
+
+09/12/2022 11:35:16 PM Info: Entrada hola obtenida y agregada al stack
+
+09/12/2022 11:35:17 PM Info: Entrada hola obtenida y agregada al stack
+
+09/12/2022 11:35:20 PM Info: Se ingreso la opcion 3
+09/12/2022 11:35:22 PM Info: Opcion 0 seleccionada, opcion invalida
+
+09/12/2022 11:39:11 PM Info: Se ingreso la opcion 0
+09/12/2022 11:39:11 PM Info: Se cerro el programa
+
+09/12/2022 11:41:41 PM Info: Entrada hola obtenida y agregada al stack
+
+09/12/2022 11:41:42 PM Info: Entrada chao obtenida y agregada al stack
+
+09/12/2022 11:41:45 PM Info: Se ingreso la opcion 4
+09/12/2022 11:41:46 PM Info: Entrada: 1
+
+09/12/2022 11:41:46 PM Info: Entrada: 2
+
+09/12/2022 11:41:46 PM Info: Resultado obtenido
+
+09/12/2022 11:41:51 PM Info: Se ingreso la opcion 0
+09/12/2022 11:41:51 PM Info: Se cerro el programa
+
+09/12/2022 11:45:35 PM Info: Entrada hola obtenida y agregada al stack
+
+09/12/2022 11:45:36 PM Info: Entrada cubo obtenida y agregada al stack
+
+09/12/2022 11:45:39 PM Info: Se ingreso la opcion 1
+09/12/2022 11:45:42 PM Info: Entrada asdasd obtenida y agregada al stack
+
+09/12/2022 11:45:43 PM Info: Se ingreso la opcion 2
+09/12/2022 11:45:43 PM Info: Opcion 1 seleccionada, resultado obtenido
+
+09/12/2022 11:46:38 PM Info: Se ingreso la opcion 0
+09/12/2022 11:46:38 PM Info: Se cerro el programa
+
+09/12/2022 11:46:52 PM Info: Entrada razonable obtenida y agregada al stack
+
+09/12/2022 11:46:54 PM Info: Entrada cubo obtenida y agregada al stack
+
+09/12/2022 11:46:56 PM Info: Se ingreso la opcion 0
+09/12/2022 11:46:56 PM Info: Se cerro el programa
+
+09/12/2022 11:47:30 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:47:31 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:47:32 PM Info: Se ingreso una entrada invalida
+09/12/2022 11:47:32 PM Info: Error en el input, por favor seleccione una posicion valida
+
+09/12/2022 11:48:42 PM Info: Se ingreso la opcion 0
+09/12/2022 11:48:42 PM Info: Se cerro el programa
+
+09/12/2022 11:48:50 PM Info: Entrada input obtenida y agregada al stack
+
+09/12/2022 11:48:52 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:48:54 PM Info: Se ingreso la opcion 1
+09/12/2022 11:48:55 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:49:53 PM Info: Se ingreso la opcion 0
+09/12/2022 11:49:53 PM Info: Se cerro el programa
+
+09/12/2022 11:49:59 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:50:00 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:50:01 PM Info: Se ingreso la opcion 3
+09/12/2022 11:50:01 PM Info: Opcion 2 seleccionada, resultado obtenido
+
+09/12/2022 11:50:52 PM Info: Se ingreso la opcion 0
+09/12/2022 11:50:52 PM Info: Se cerro el programa
+
+09/12/2022 11:51:03 PM Info: Entrada input obtenida y agregada al stack
+
+09/12/2022 11:51:04 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:51:06 PM Info: Se ingreso la opcion 4
+09/12/2022 11:51:06 PM Info: Entrada: 1
+
+09/12/2022 11:51:07 PM Info: Entrada: 2
+
+09/12/2022 11:51:07 PM Info: Resultado obtenido
+
+09/12/2022 11:51:57 PM Info: Se ingreso la opcion 0
+09/12/2022 11:51:57 PM Info: Se cerro el programa
+
+09/12/2022 11:52:04 PM Info: Entrada input obtenida y agregada al stack
+
+09/12/2022 11:52:05 PM Info: Entrada entrada obtenida y agregada al stack
+
+09/12/2022 11:52:06 PM Info: Se ingreso la opcion 3
+09/12/2022 11:52:06 PM Info: Error en el input, por favor seleccione una posicion valida
+09/12/2022 11:52:41 PM Info: Se ingreso la opcion 0
+09/12/2022 11:52:41 PM Info: Se cerro el programa
+
+09/12/2022 11:52:46 PM Info: Entrada textolargo obtenida y agregada al stack
+
+09/12/2022 11:52:48 PM Info: Entrada corto obtenida y agregada al stack
+
+09/12/2022 11:52:50 PM Info: Se ingreso la opcion 4
+09/12/2022 11:52:52 PM Info: Entrada: 1
+
+09/12/2022 11:52:52 PM Info: Entrada: 2
+
+09/12/2022 11:52:52 PM Info: Resultado obtenido
+
