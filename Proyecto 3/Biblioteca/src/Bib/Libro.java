@@ -19,7 +19,8 @@ public class Libro {
 		this.paginas = paginas;
 		this.editorial = editorial;
 		this.genero = genero;
-		this.ubicacion = isbn;
+		this.isbn = isbn;
+		this.ubicacion = ubicacion;
 		this.estado = estado;
 		this.desc = desc;
 	}
