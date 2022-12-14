@@ -3,7 +3,9 @@
 ## Nombre
 Jean-Franco Zárate
 ## Descripción
-El proyecto consiste en crear un módulo de biblioteca que sea capaz de, a través de interacción por consola, registrar, buscar, editar y eliminar libros
+El proyecto consiste en crear un módulo de biblioteca que sea capaz de, a través de interacción por consola, registrar, buscar, editar y eliminar libros.
+
+<em>Bonus por el nombre del archivo de test.</em>
 ## Instalación
 Para instalar el programa basta con descargar los archivos encontrados en esta carpeta y usar un IDE de Java para lograr escribir y ejecutar el programa. Para la construcción de este programa se utilizó el IDE Eclipse. Para usar con Eclipse, designar como workspace la carpeta Proyecto1.
 ## Cómo usar
