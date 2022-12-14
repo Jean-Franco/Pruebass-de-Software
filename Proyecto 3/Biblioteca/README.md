@@ -7,7 +7,7 @@ El proyecto consiste en crear un m처dulo de biblioteca que sea capaz de, a trav�
 
 <em>Bonus por el nombre del archivo de test.</em>
 ## Instalaci처n
-Para instalar el programa basta con descargar los archivos encontrados en esta carpeta y usar un IDE de Java para lograr escribir y ejecutar el programa. Para la construcci처n de este programa se utiliz처 el IDE Eclipse. Para usar con Eclipse, designar como workspace la carpeta Proyecto1.
+Para instalar el programa basta con descargar los archivos encontrados en esta carpeta y usar un IDE de Java para lograr escribir y ejecutar el programa. Para la construcci처n de este programa se utiliz처 el IDE Eclipse.
 ## C처mo usar
 Para usar los archivos descargados, basta con la terminal ubicada en la carpeta de los archivos y ejecutar con el comando <code> javac *.java </code> o ejecutar directamente el archivo Main.java desde el IDE Eclipse.
 
