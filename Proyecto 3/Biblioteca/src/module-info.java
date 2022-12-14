@@ -6,4 +6,6 @@
  *
  */
 module Biblioteca {
+	requires junit;
+	exports Bib to junit;
 }
